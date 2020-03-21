@@ -1,9 +1,10 @@
 var express = require('express');
+var storage = require('./storage');
 var router = express.Router();
 
-/* GET users listing. */
+/* GET all shopping list */
 router.get('/', function(req, res, next) {
-  res.send('respond with a resource');
+	res.json(storage.get());
 });
 
 module.exports = router;
