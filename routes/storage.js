@@ -1,27 +1,14 @@
 var storage = {
   list: [{
-      'name': 'Markus',
-      'phoneNumber': '345678',
+      'name': 'Marie Mayer',
+      'phoneNumber': '+49302270',
       'shoppingItems': [
-          'Apfel',
-          'Schokolade'
+          'Karotten'
       ],
-      'address': 'woanders, München',
+      'address': 'Altenastraße 10, 81375 München',
       'latlng': [
-          48.34369,
-          11.24907
-      ]
-  }, {
-      'name': 'Daniel',
-      'phoneNumber': '345678',
-      'shoppingItems': [
-          'Apfel',
-          'Karotte'
-      ],
-      'address': 'Arnulfstraße 60, München',
-      'latlng': [
-          48.14369,
-          11.54907
+          48.1155,
+          11.48657
       ]
   }]
 }
