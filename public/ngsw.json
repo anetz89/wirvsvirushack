@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1584915521239,
+  "timestamp": 1584916646251,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -139,8 +139,8 @@
     "/assets/images/man_sitting.svg": "55d2bcdd06c51809b748f7473c127b17929aba76",
     "/assets/images/marie.gif": "2c9fac8b5c10fc23d995fe1790ddbe6c8e97469f",
     "/assets/images/woman_standing.svg": "7baa7cd0467e1f70db60e999b60f649db5f05ecb",
-    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "c84a8bcc92cddeae9d63f3e2f6a5e5407d446f60",
+    "/favicon.ico": "e4955ec0b1e6f09a4a26ec48ae21b49921be0e67",
+    "/index.html": "b9e776353695b2fee9b051d622957db1964a39b2",
     "/layers-2x.4f0283c6ce28e888000e.png": "152a162333e46d24f9d89f566312fc0c64011dee",
     "/layers.a6137456ed160d760698.png": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
     "/main-es2015.7dffce2f99f81a799884.js": "3eb97a6217bebe179224ac3e44beafab5506245c",
