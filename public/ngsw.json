@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1584910066017,
+  "timestamp": 1584912545246,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,14 +10,14 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.446a4ffa06632d9915c8.js",
-        "/main-es5.65d6ba02f88dab36714a.js",
+        "/main-es2015.b3692387dc97ba7d2d40.js",
+        "/main-es5.ed9079642cdb479c6373.js",
         "/manifest.webmanifest",
         "/polyfills-es2015.1073b720b3ddb748ced3.js",
         "/polyfills-es5.2594ce0d9c8e7a90a51c.js",
         "/runtime-es2015.6cb26ad50e19f669a459.js",
         "/runtime-es5.5027661f40ba2d649e7c.js",
-        "/styles.c7b2b0c5819672380436.css"
+        "/styles.b018212d137171f3a3e1.css"
       ],
       "patterns": []
     },
@@ -50,6 +50,7 @@
         "/assets/fonts/sofia_pro_semi_bold_az-webfont.ttf",
         "/assets/fonts/sofia_pro_semi_bold_az-webfont.woff",
         "/assets/fonts/sofia_pro_semi_bold_az-webfont.woff2",
+        "/assets/icons/back_button.svg",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
         "/assets/icons/icon-152x152.png",
@@ -63,6 +64,7 @@
         "/assets/images/die_bundesregierung.svg",
         "/assets/images/die_bundesregierung_3.png",
         "/assets/images/man_sitting.svg",
+        "/assets/images/marie.gif",
         "/assets/images/woman_standing.svg",
         "/layers-2x.4f0283c6ce28e888000e.png",
         "/layers.a6137456ed160d760698.png",
@@ -121,6 +123,7 @@
     "/assets/fonts/sofia_pro_semi_bold_az-webfont.ttf": "df6dd329af9adc362fdeac917b060fdc095525f6",
     "/assets/fonts/sofia_pro_semi_bold_az-webfont.woff": "048a344cb7a16d4932d8930f1166391f58db1d6e",
     "/assets/fonts/sofia_pro_semi_bold_az-webfont.woff2": "bd5e0ba52e7c811fc7f241cece0a6ed9df776fe5",
+    "/assets/icons/back_button.svg": "9a4481cbce606d856c659f10435ee983d89d1763",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -134,13 +137,14 @@
     "/assets/images/die_bundesregierung.svg": "c7b33004697fac842ea4cfd6c2d4edf7b29d9688",
     "/assets/images/die_bundesregierung_3.png": "79d2bec0cf70ed9b043de3be113642a3e0c42b75",
     "/assets/images/man_sitting.svg": "55d2bcdd06c51809b748f7473c127b17929aba76",
+    "/assets/images/marie.gif": "2c9fac8b5c10fc23d995fe1790ddbe6c8e97469f",
     "/assets/images/woman_standing.svg": "7baa7cd0467e1f70db60e999b60f649db5f05ecb",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "0f6a1de229fa677f344aa241cb844f2f543a119f",
+    "/index.html": "35b10a73351e86f5be27213d5f09270f0456dc6f",
     "/layers-2x.4f0283c6ce28e888000e.png": "152a162333e46d24f9d89f566312fc0c64011dee",
     "/layers.a6137456ed160d760698.png": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
-    "/main-es2015.446a4ffa06632d9915c8.js": "6e887b095a22b1ec903f5880881443867e538693",
-    "/main-es5.65d6ba02f88dab36714a.js": "192afbbd094375adbe8e4b3ccffe27116a5123c9",
+    "/main-es2015.b3692387dc97ba7d2d40.js": "5bc65ad2b3631da2b30f91037cd1432d97a0d11d",
+    "/main-es5.ed9079642cdb479c6373.js": "27575037a607204f39f9e48387a01a4fd718e2b7",
     "/manifest.webmanifest": "9082874b4af67730d280dbbe4e9a7cf03d4ddf33",
     "/marker-icon.2273e3d8ad9264b7daa5.png": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
     "/playfairdisplay-variablefont_wght-webfont.20e1565dd5c9e47bd241.ttf": "ee302704ea173610217305ef9077b916cbf5517b",
@@ -171,7 +175,7 @@
     "/sofia_pro_semi_bold_az-webfont.37ec284ece15e3140f65.eot": "9cfa20ddef95a0116b709eb0613253ea1b38d9af",
     "/sofia_pro_semi_bold_az-webfont.556900708f3af997db35.ttf": "df6dd329af9adc362fdeac917b060fdc095525f6",
     "/sofia_pro_semi_bold_az-webfont.7724630b21a8b49fbfc3.woff2": "bd5e0ba52e7c811fc7f241cece0a6ed9df776fe5",
-    "/styles.c7b2b0c5819672380436.css": "255ed0c9d1f744a46e5806f9e7b40cb85b1a5d5d"
+    "/styles.b018212d137171f3a3e1.css": "4cf878ab0c2f3d8db7bfc755fc79b6c8c7e474d4"
   },
   "navigationUrls": [
     {
