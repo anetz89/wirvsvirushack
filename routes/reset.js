@@ -3,9 +3,8 @@ var storage = require('./storage');
 var router = express.Router();
 
 /* POST a shopping list */
-router.post('/', function(req, res, next) {
-  console.log(req.body);
-  storage.push(req.body);
+router.get('/', function(req, res, next) {
+  storage.reset();
   res.json("OK");
 });
 

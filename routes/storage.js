@@ -1,13 +1,16 @@
 var storage = {
-  lists: []
+  list: []
 }
 
 
 module.exports = {
   push: function(list) {
-    storage.lists.push(list);
+    storage.list.push(list);
   },
   get: function() {
-    return storage.lists;
+    return storage.list;
+  },
+  reset: function() {
+    storage.list = [];
   }
 };

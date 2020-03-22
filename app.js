@@ -5,6 +5,7 @@ var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 
 var indexRouter = require('./routes/index');
+var resetRouter = require('./routes/reset');
 var uploadRouter = require('./routes/upload');
 var downloadRouter = require('./routes/download');
 
@@ -21,6 +22,7 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 // app.use('/', indexRouter);
+app.use('/reset', resetRouter);
 app.use('/upload', uploadRouter);
 app.use('/download', downloadRouter);
 
